@@ -38,8 +38,8 @@ This beginner-friendly script sorts files by type, creates folders, and moves ev
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Zack-Noah/CodeCraftHub-FileOrganizer.git
-cd CodeCraftHub-FileOrganizer
+git clone https://github.com/CodeANDCraftHub/FileOrganizer.git
+cd FileOrganizer
 ```
 
 2. Make sure your test folder has some mixed files (or use the included `example_folder/`).
